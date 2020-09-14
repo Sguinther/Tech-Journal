@@ -10,3 +10,8 @@ PF sense gets the ball rolling on setting our networks up manually
 LAB02
 
 Setting up server- make sure ip is set, go to adapter properties and then find ipv4 tag to configure
+
+**KEEP THESE PASSWORDS**
+sam.local passwords need to be remembered
+always ping before going through to new steps to ensure that each step was set up properly 
+(gives you a good timeline to go back and "debug" your work)
