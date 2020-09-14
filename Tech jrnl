@@ -1,1 +1,12 @@
 This is my tech journal. 
+LAB01
+TRACERT- using the additive-h allows for the user to specify maximum number of hops, allowing you to pinpoint locations.
+
+PF sense gets the ball rolling on setting our networks up manually 
+
+
+
+
+LAB02
+
+Setting up server- make sure ip is set, go to adapter properties and then find ipv4 tag to configure
