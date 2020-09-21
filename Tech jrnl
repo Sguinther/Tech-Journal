@@ -15,3 +15,16 @@ Setting up server- make sure ip is set, go to adapter properties and then find i
 sam.local passwords need to be remembered
 always ping before going through to new steps to ensure that each step was set up properly 
 (gives you a good timeline to go back and "debug" your work)
+
+
+LAB03
+
+***MAKE SURE THE NAMES OF EACH SYSTEM ARE CORRECTLY SET ON THE DNS MANAGER***
+having any mistakes in this area will make things not work. that is not good.
+using sudo as an unauthorized used makes an incident report- good to know
+Clear bash is history -c 
+LINUX COMMANDS:
+1. alias- this command lets you create a set of commands that execute if you execute the name of the alias
+2. cat- this command prints the contents of a file to a terminal window
+3. chown- this command lets you change the user and group of a file. Just make sure the parameters of this command are met when in use!
+4. curl- this command lets you download specific things from the web. also make sure params are met here (-o)
