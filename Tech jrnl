@@ -23,6 +23,9 @@ LAB03
 having any mistakes in this area will make things not work. that is not good.
 using sudo as an unauthorized used makes an incident report- good to know
 Clear bash is history -c 
+SETTING STATIC IP ON CENTOS:
+To do this, enter the nmtui command, go to edit a connection, select the only available one (ens192), and then from there fill out the fields. 
+
 LINUX COMMANDS:
 1. alias- this command lets you create a set of commands that execute if you execute the name of the alias
 2. cat- this command prints the contents of a file to a terminal window
