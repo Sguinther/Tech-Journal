@@ -31,3 +31,16 @@ LINUX COMMANDS:
 2. cat- this command prints the contents of a file to a terminal window
 3. chown- this command lets you change the user and group of a file. Just make sure the parameters of this command are met when in use!
 4. curl- this command lets you download specific things from the web. also make sure params are met here (-o)
+
+
+
+LAB04
+
+
+LINUX FILE PERMISSION
+
+To create a group, use the command (groupadd name)
+To add a user to a group use the command (usermod -aG groupname Username)
+To change rwx use the commands (chmod u+-rwx name) (chmod g+-rwx name) (chmod o+-rwx name) OR numbers *421*rwx*
+To change group of directory or file use command (chgrp groupname item)
+
