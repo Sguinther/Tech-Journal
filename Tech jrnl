@@ -55,3 +55,5 @@ Right click the domain to create a new GPO. Right click and select Edit to open 
 Go to User Configuration -> Preferences -> Windows Settings -> Drive Maps.
 
 Right click and select New Mapped Drive.
+
+From there you can choose the path for the gp to be linked to, set to your FS01-name
