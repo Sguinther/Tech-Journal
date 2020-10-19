@@ -44,3 +44,14 @@ To add a user to a group use the command (usermod -aG groupname Username)
 To change rwx use the commands (chmod u+-rwx name) (chmod g+-rwx name) (chmod o+-rwx name) OR numbers *421*rwx*
 To change group of directory or file use command (chgrp groupname item)
 
+
+
+SERVER CORE LAB:
+
+Open Group Policy Management
+
+Right click the domain to create a new GPO. Right click and select Edit to open the Group Policy Management Editor.
+
+Go to User Configuration -> Preferences -> Windows Settings -> Drive Maps.
+
+Right click and select New Mapped Drive.
