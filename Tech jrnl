@@ -57,3 +57,17 @@ Go to User Configuration -> Preferences -> Windows Settings -> Drive Maps.
 Right click and select New Mapped Drive.
 
 From there you can choose the path for the gp to be linked to, set to your FS01-name
+
+WEEK 8:
+ To add linux and windows domains, simply use realm.
+ first install realm package, sudo yum install realmd samba samba-common oddjob oddjob-mkhomedir sssd
+ the run realm join --user=your-domain-admin-username@yourdomain.local yourdomain.local
+realm list
+
+to get apache working, install httpd 
+then run sudo firewall-cmd --zone=public --add-port=80/tcp
+sudo firewall-cmd --zone=public --add-port=443/tcp
+
+
+
+
