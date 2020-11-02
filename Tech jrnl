@@ -69,5 +69,10 @@ then run sudo firewall-cmd --zone=public --add-port=80/tcp
 sudo firewall-cmd --zone=public --add-port=443/tcp
 
 
+DHCP is down!
+https://activedirectorypro.com/configure-dhcp-server/
+
+
+
 
 
