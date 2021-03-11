@@ -10,3 +10,5 @@ sudo cp /home/sam/Tech-journal/SYS265/linux/public-keys/id_rsa.pub /home/$l/.ssh
 sudo chmod 700 /home/$l/.ssh
 sudo chmod 600 /home/$l/.ssh/authorized_keys
 sudo chown -R $1:$1 /home/$1/.ssh
+sudo sed -i 's/PermitRootLogin yes/PermitRootLogin no/g' /etc/ssh/sshd_config
+sudo systemctl restart sshd.service
